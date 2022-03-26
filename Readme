@@ -1,0 +1,3 @@
+Snowball project 是用IntelliJ IDEA 开发，并使用Java 10 SDK
+commons-math3-3.6.1包含project使用到的Matrix
+UnitTest包含了测试 BS model和Monte Carlo Simulation
